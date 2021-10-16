@@ -1,0 +1,65 @@
+.header_div {
+    background: rgb(14, 191, 198);
+    color: #230c63;
+    height: 190px;
+}
+
+.header_div img {
+    width: 150px;
+    height: 150px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 75px;
+}
+
+#camera {
+    border: rgb(25, 90, 175) 25px groove;
+    width: 310px;
+    height: 310px;
+}
+
+#result {
+    border: rgb(4, 177, 82) 25px groove;
+    width: 340px;
+    height: 320px;
+}
+
+.footer_div {
+    margin-bottom: 80px;
+    text-align: left;
+}
+
+.footer_div h4 {
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img {
+    width: 90px;
+    height: 100px;
+}
+
+body {
+    background-color: rgb(0, 253, 198);
+}
+
+.Copyright {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(97, 0, 187);
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bold;
+    color: royalblue;
+    text-align: right;
+}
+
+img {
+    width: 290px;
+    height: 270px;
+}
